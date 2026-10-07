@@ -1,0 +1,13 @@
+{
+  "name":"NIGHT FRONT — OXIDE",
+  "short_name":"NIGHT FRONT",
+  "description":"Мобільний сайт клану NIGHT FRONT у OXIDE.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#070707",
+  "theme_color":"#070707",
+  "orientation":"portrait",
+  "icons":[
+    {"src":"assets/logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
